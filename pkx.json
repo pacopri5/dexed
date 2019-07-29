@@ -657,7 +657,7 @@
     "id": 23,
     "num": "023",
     "name": "Ekans",
-    "img": "http://www.serebii.net/pokemongo/pokemon/023.png",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/023.gif",
     "type": [
       "Poison"
     ],
@@ -685,7 +685,7 @@
     "id": 24,
     "num": "024",
     "name": "Arbok",
-    "img": "http://www.serebii.net/pokemongo/pokemon/024.png",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/024.gif",
     "type": [
       "Poison"
     ],
@@ -709,7 +709,7 @@
     "id": 25,
     "num": "025",
     "name": "Pikachu",
-    "img": "http://www.serebii.net/pokemongo/pokemon/025.png",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/025.gif",
     "type": [
       "Electric"
     ],
@@ -733,7 +733,7 @@
     "id": 26,
     "num": "026",
     "name": "Raichu",
-    "img": "http://www.serebii.net/pokemongo/pokemon/026.png",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/026.gif",
     "type": [
       "Electric"
     ],
@@ -756,7 +756,7 @@
     "id": 27,
     "num": "027",
     "name": "Sandshrew",
-    "img": "http://www.serebii.net/pokemongo/pokemon/027.png",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/027.gif",
     "type": [
       "Ground"
     ],
@@ -782,7 +782,7 @@
     "id": 28,
     "num": "028",
     "name": "Sandslash",
-    "img": "http://www.serebii.net/pokemongo/pokemon/028.png",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/028.gif",
     "type": [
       "Ground"
     ],
@@ -807,7 +807,7 @@
     "id": 29,
     "num": "029",
     "name": "Nidoran ♀ (Female)",
-    "img": "http://www.serebii.net/pokemongo/pokemon/029.png",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/029.gif",
     "type": [
       "Poison"
     ],
@@ -838,7 +838,7 @@
     "id": 30,
     "num": "030",
     "name": "Nidorina",
-    "img": "http://www.serebii.net/pokemongo/pokemon/030.png",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/030.gif",
     "type": [
       "Poison"
     ],
@@ -870,7 +870,7 @@
     "id": 31,
     "num": "031",
     "name": "Nidoqueen",
-    "img": "http://www.serebii.net/pokemongo/pokemon/031.png",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/031.gif",
     "type": [
       "Poison",
       "Ground"
@@ -900,7 +900,7 @@
     "id": 32,
     "num": "032",
     "name": "Nidoran ♂ (Male)",
-    "img": "http://www.serebii.net/pokemongo/pokemon/032.png",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/032.gif",
     "type": [
       "Poison"
     ],
@@ -931,7 +931,7 @@
     "id": 33,
     "num": "033",
     "name": "Nidorino",
-    "img": "http://www.serebii.net/pokemongo/pokemon/033.png",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/033.gif",
     "type": [
       "Poison"
     ],
@@ -960,7 +960,7 @@
     "id": 34,
     "num": "034",
     "name": "Nidoking",
-    "img": "http://www.serebii.net/pokemongo/pokemon/034.png",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/034.gif",
     "type": [
       "Poison",
       "Ground"
@@ -990,7 +990,7 @@
     "id": 35,
     "num": "035",
     "name": "Clefairy",
-    "img": "http://www.serebii.net/pokemongo/pokemon/035.png",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/035.gif",
     "type": [
       "Normal"
     ],
@@ -1017,7 +1017,7 @@
     "id": 36,
     "num": "036",
     "name": "Clefable",
-    "img": "http://www.serebii.net/pokemongo/pokemon/036.png",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/036.gif",
     "type": [
       "Normal"
     ],
@@ -1040,7 +1040,7 @@
     "id": 37,
     "num": "037",
     "name": "Vulpix",
-    "img": "http://www.serebii.net/pokemongo/pokemon/037.png",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/037.gif",
     "type": [
       "Fire"
     ],
@@ -1069,7 +1069,7 @@
     "id": 38,
     "num": "038",
     "name": "Ninetales",
-    "img": "http://www.serebii.net/pokemongo/pokemon/038.png",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/038.gif",
     "type": [
       "Fire"
     ],
@@ -1094,7 +1094,7 @@
     "id": 39,
     "num": "039",
     "name": "Jigglypuff",
-    "img": "http://www.serebii.net/pokemongo/pokemon/039.png",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/039.gif",
     "type": [
       "Normal"
     ],
@@ -1118,7 +1118,7 @@
     "id": 40,
     "num": "040",
     "name": "Wigglytuff",
-    "img": "http://www.serebii.net/pokemongo/pokemon/040.png",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/040.gif",
     "type": [
       "Normal"
     ],
@@ -1141,7 +1141,7 @@
     "id": 41,
     "num": "041",
     "name": "Zubat",
-    "img": "http://www.serebii.net/pokemongo/pokemon/041.png",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/041.gif",
     "type": [
       "Poison",
       "Flying"
@@ -1172,7 +1172,7 @@
     "id": 42,
     "num": "042",
     "name": "Golbat",
-    "img": "http://www.serebii.net/pokemongo/pokemon/042.png",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/042.gif",
     "type": [
       "Poison",
       "Flying"
@@ -1199,7 +1199,7 @@
     "id": 43,
     "num": "043",
     "name": "Oddish",
-    "img": "http://www.serebii.net/pokemongo/pokemon/043.png",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/043.gif",
     "type": [
       "Grass",
       "Poison"
@@ -1230,7 +1230,7 @@
     "id": 44,
     "num": "044",
     "name": "Gloom",
-    "img": "http://www.serebii.net/pokemongo/pokemon/044.png",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/044.gif",
     "type": [
       "Grass",
       "Poison"
@@ -1262,7 +1262,7 @@
     "id": 45,
     "num": "045",
     "name": "Vileplume",
-    "img": "http://www.serebii.net/pokemongo/pokemon/045.png",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/045.gif",
     "type": [
       "Grass",
       "Poison"
@@ -1292,7 +1292,7 @@
     "id": 46,
     "num": "046",
     "name": "Paras",
-    "img": "http://www.serebii.net/pokemongo/pokemon/046.png",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/046.gif",
     "type": [
       "Bug",
       "Grass"
@@ -1322,7 +1322,7 @@
     "id": 47,
     "num": "047",
     "name": "Parasect",
-    "img": "http://www.serebii.net/pokemongo/pokemon/047.png",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/047.gif",
     "type": [
       "Bug",
       "Grass"
@@ -1351,7 +1351,7 @@
     "id": 48,
     "num": "048",
     "name": "Venonat",
-    "img": "http://www.serebii.net/pokemongo/pokemon/048.png",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/048.gif",
     "type": [
       "Bug",
       "Poison"
@@ -1382,7 +1382,7 @@
     "id": 49,
     "num": "049",
     "name": "Venomoth",
-    "img": "http://www.serebii.net/pokemongo/pokemon/049.png",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/049.gif",
     "type": [
       "Bug",
       "Poison"
@@ -1409,7 +1409,7 @@
     "id": 50,
     "num": "050",
     "name": "Diglett",
-    "img": "http://www.serebii.net/pokemongo/pokemon/050.png",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/050.gif",
     "type": [
       "Ground"
     ],
@@ -1435,7 +1435,7 @@
     "id": 51,
     "num": "051",
     "name": "Dugtrio",
-    "img": "http://www.serebii.net/pokemongo/pokemon/051.png",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/051.gif",
     "type": [
       "Ground"
     ],
@@ -1460,7 +1460,7 @@
     "id": 52,
     "num": "052",
     "name": "Meowth",
-    "img": "http://www.serebii.net/pokemongo/pokemon/052.png",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/052.gif",
     "type": [
       "Normal"
     ],
@@ -1484,7 +1484,7 @@
     "id": 53,
     "num": "053",
     "name": "Persian",
-    "img": "http://www.serebii.net/pokemongo/pokemon/053.png",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/053.gif",
     "type": [
       "Normal"
     ],
@@ -1507,7 +1507,7 @@
     "id": 54,
     "num": "054",
     "name": "Psyduck",
-    "img": "http://www.serebii.net/pokemongo/pokemon/054.png",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/054.gif",
     "type": [
       "Water"
     ],
@@ -1532,7 +1532,7 @@
     "id": 55,
     "num": "055",
     "name": "Golduck",
-    "img": "http://www.serebii.net/pokemongo/pokemon/055.png",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/055.gif",
     "type": [
       "Water"
     ],
@@ -1556,7 +1556,7 @@
     "id": 56,
     "num": "056",
     "name": "Mankey",
-    "img": "http://www.serebii.net/pokemongo/pokemon/056.png",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/056.gif",
     "type": [
       "Fighting"
     ],
@@ -1585,7 +1585,7 @@
     "id": 57,
     "num": "057",
     "name": "Primeape",
-    "img": "http://www.serebii.net/pokemongo/pokemon/057.png",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/057.gif",
     "type": [
       "Fighting"
     ],
@@ -1610,7 +1610,7 @@
     "id": 58,
     "num": "058",
     "name": "Growlithe",
-    "img": "http://www.serebii.net/pokemongo/pokemon/058.png",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/058.gif",
     "type": [
       "Fire"
     ],
@@ -1639,7 +1639,7 @@
     "id": 59,
     "num": "059",
     "name": "Arcanine",
-    "img": "http://www.serebii.net/pokemongo/pokemon/059.png",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/059.gif",
     "type": [
       "Fire"
     ],
@@ -1664,7 +1664,7 @@
     "id": 60,
     "num": "060",
     "name": "Poliwag",
-    "img": "http://www.serebii.net/pokemongo/pokemon/060.png",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/060.gif",
     "type": [
       "Water"
     ],
@@ -1695,7 +1695,7 @@
     "id": 61,
     "num": "061",
     "name": "Poliwhirl",
-    "img": "http://www.serebii.net/pokemongo/pokemon/061.png",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/061.gif",
     "type": [
       "Water"
     ],
@@ -1724,7 +1724,7 @@
     "id": 62,
     "num": "062",
     "name": "Poliwrath",
-    "img": "http://www.serebii.net/pokemongo/pokemon/062.png",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/062.gif",
     "type": [
       "Water",
       "Fighting"
@@ -1755,7 +1755,7 @@
     "id": 63,
     "num": "063",
     "name": "Abra",
-    "img": "http://www.serebii.net/pokemongo/pokemon/063.png",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/063.gif",
     "type": [
       "Psychic"
     ],
@@ -1787,7 +1787,7 @@
     "id": 64,
     "num": "064",
     "name": "Kadabra",
-    "img": "http://www.serebii.net/pokemongo/pokemon/064.png",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/064.gif",
     "type": [
       "Psychic"
     ],
@@ -1817,7 +1817,7 @@
     "id": 65,
     "num": "065",
     "name": "Alakazam",
-    "img": "http://www.serebii.net/pokemongo/pokemon/065.png",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/065.gif",
     "type": [
       "Psychic"
     ],
@@ -1845,7 +1845,7 @@
     "id": 66,
     "num": "066",
     "name": "Machop",
-    "img": "http://www.serebii.net/pokemongo/pokemon/066.png",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/066.gif",
     "type": [
       "Fighting"
     ],
@@ -1877,7 +1877,7 @@
     "id": 67,
     "num": "067",
     "name": "Machoke",
-    "img": "http://www.serebii.net/pokemongo/pokemon/067.png",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/067.gif",
     "type": [
       "Fighting"
     ],
@@ -1907,7 +1907,7 @@
     "id": 68,
     "num": "068",
     "name": "Machamp",
-    "img": "http://www.serebii.net/pokemongo/pokemon/068.png",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/068.gif",
     "type": [
       "Fighting"
     ],
@@ -1935,7 +1935,7 @@
     "id": 69,
     "num": "069",
     "name": "Bellsprout",
-    "img": "http://www.serebii.net/pokemongo/pokemon/069.png",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/069.gif",
     "type": [
       "Grass",
       "Poison"
@@ -1966,7 +1966,7 @@
     "id": 70,
     "num": "070",
     "name": "Weepinbell",
-    "img": "http://www.serebii.net/pokemongo/pokemon/070.png",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/070.gif",
     "type": [
       "Grass",
       "Poison"
