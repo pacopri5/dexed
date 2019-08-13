@@ -11,8 +11,8 @@
       "Sp. Attack": 65,
       "Sp. Defense": 65,
       "Speed": 45,
-    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/001.gif",
     "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/001.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/001.gif",
     "type": [
       "Grass",
       "Poison"
@@ -51,8 +51,8 @@
       "Sp. Attack": 80,
       "Sp. Defense": 80,
       "Speed": 60,
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/002.gif",
     "img": "https://pokemon-trainer.com/images/sprite/xyorasani/002.gif",
-      "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/002.gif",
     "type": [
       "Grass",
       "Poison"
@@ -95,8 +95,8 @@
       "Sp. Attack": 100,
       "Sp. Defense": 100,
       "Speed": 80,
+     "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/003.gif",
     "img": "https://pokemon-trainer.com/images/sprite/xyorasani/003.gif",
-    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/003.gif",
     "type": [
       "Grass",
       "Poison"
@@ -134,8 +134,8 @@
       "Sp. Attack": 60,
       "Sp. Defense": 50,
       "Speed": 65,
-    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/004.gif",
     "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/004.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/004.gif",
     "type": [
       "Fire"
     ],
@@ -172,8 +172,8 @@
       "Sp. Attack": 80,
       "Sp. Defense": 65,
       "Speed": 80,
-    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/005.gif",
     "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/005.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/005.gif",
     "type": [
       "Fire"
     ],
@@ -211,8 +211,8 @@
       "Sp. Attack": 109,
       "Sp. Defense": 85,
       "Speed": 100,
-    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/006.gif",
     "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/006.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/006.gif",
     "type": [
       "Fire",
       "Flying"
@@ -249,8 +249,8 @@
       "Sp. Attack": 50,
       "Sp. Defense": 64,
       "Speed": 43,
-    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/007.gif",
     "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/007.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/007.gif",
     "type": [
       "Water"
     ],
@@ -286,8 +286,8 @@
       "Sp. Attack": 65,
       "Sp. Defense": 80,
       "Speed": 58,
-    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/008.gif",
     "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/008.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/008.gif",
     "type": [
       "Water"
     ],
@@ -324,8 +324,8 @@
       "Sp. Attack": 85,
       "Sp. Defense": 105,
       "Speed": 78,
+     "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/009.gif",
     "img": "https://pokemon-trainer.com/images/sprite/xyorasani/009.gif",
-    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/009.gif",
     "type": [
       "Water"
     ],
@@ -360,8 +360,8 @@
       "Sp. Attack": 20,
       "Sp. Defense": 20,
       "Speed": 45,
-    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/010.gif",
     "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/010.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/010.gif",
     "type": [
       "Bug"
     ],
