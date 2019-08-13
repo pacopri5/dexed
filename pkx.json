@@ -4575,6 +4575,15 @@
     "id": 126,
     "num": "126",
     "name": "Magmar",
+     "descriptiones": "",
+    "descriptionus": "",
+       "HP": 60,
+      "Attack": 110,
+      "Defense": 70,
+      "Sp. Attack": 60,
+      "Sp. Defense": 60,
+      "Speed": 110,
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/065.gif",
     "img": "https://pokemon-trainer.com/images/sprite/xyorasani/126.gif",
     "type": [
       "Fire"
