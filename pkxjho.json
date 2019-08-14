@@ -2735,7 +2735,7 @@
     }]
   }, {
     "id": 74,
-    "num": "074",
+    "num": "225",
     "name": "Octillery",
      "descriptiones": "",
     "descriptionus": "",
@@ -2745,8 +2745,8 @@
       "Sp. Attack": 30,
       "Sp. Defense": 30,
       "Speed": 20,
-    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/065.gif",
-    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/074.gif",
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/225.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/225.gif",
     "type": [
       "Rock",
       "Ground"
@@ -2780,7 +2780,7 @@
     }]
   }, {
     "id": 75,
-    "num": "075",
+    "num": "226",
     "name": "Delibird",
      "descriptiones": "",
     "descriptionus": "",
@@ -2790,8 +2790,8 @@
       "Sp. Attack": 45,
       "Sp. Defense": 45,
       "Speed": 35,
-    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/065.gif",
-    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/075.gif",
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/226.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/226.gif",
     "type": [
       "Rock",
       "Ground"
@@ -2826,7 +2826,7 @@
     }]
   }, {
     "id": 76,
-    "num": "076",
+    "num": "227",
     "name": "Mantine",
      "descriptiones": "",
     "descriptionus": "",
@@ -2836,8 +2836,8 @@
       "Sp. Attack": 55,
       "Sp. Defense": 65,
       "Speed": 45,
-    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/065.gif",
-    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/076.gif",
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/227.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/227.gif",
     "type": [
       "Rock",
       "Ground"
@@ -2867,7 +2867,7 @@
     }]
   }, {
     "id": 77,
-    "num": "077",
+    "num": "228",
     "name": "Skarmory",
      "descriptiones": "",
     "descriptionus": "",
@@ -2877,8 +2877,8 @@
       "Sp. Attack": 65,
       "Sp. Defense": 65,
       "Speed": 90,
-    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/065.gif",
-    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/077.gif",
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/228.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/228.gif",
     "type": [
       "Fire"
     ],
@@ -2905,7 +2905,7 @@
     }]
   }, {
     "id": 78,
-    "num": "078",
+    "num": "229",
     "name": "Houndour",
      "descriptiones": "",
     "descriptionus": "",
@@ -2915,8 +2915,8 @@
       "Sp. Attack": 80,
       "Sp. Defense": 80,
       "Speed": 105,
-    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/065.gif",
-    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/078.gif",
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/229.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/229.gif",
     "type": [
       "Fire"
     ],
@@ -2939,7 +2939,7 @@
     }]
   }, {
     "id": 79,
-    "num": "079",
+    "num": "230",
     "name": "Houndour",
      "descriptiones": "",
     "descriptionus": "",
@@ -2949,8 +2949,8 @@
       "Sp. Attack": 40,
       "Sp. Defense": 40,
       "Speed": 15,
-    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/079.gif",
-    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/079.gif",
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/230.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/230.gif",
     "type": [
       "Water",
       "Psychic"
@@ -2977,7 +2977,7 @@
     }]
   }, {
     "id": 80,
-    "num": "080",
+    "num": "231",
     "name": "Kingdra",
      "descriptiones": "",
     "descriptionus": "",
@@ -2987,8 +2987,8 @@
       "Sp. Attack": 100,
       "Sp. Defense": 80,
       "Speed": 30,
-    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/080.gif",
-    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/080.gif",
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/231.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/231.gif",
     "type": [
       "Water",
       "Psychic"
@@ -3014,7 +3014,7 @@
     }]
   }, {
     "id": 81,
-    "num": "081",
+    "num": "232",
     "name": "Phanpy",
       "descriptiones": "",
     "descriptionus": "",
@@ -3024,8 +3024,8 @@
       "Sp. Attack": 95,
       "Sp. Defense": 55,
       "Speed": 45,
-    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/080.gif",
-    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/081.gif",
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/232.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/232.gif",
     "type": [
       "Electric"
     ],
@@ -3052,7 +3052,7 @@
     }]
   }, {
     "id": 82,
-    "num": "082",
+    "num": "233",
     "name": "Donphan",
      "descriptiones": "",
     "descriptionus": "",
@@ -3062,8 +3062,8 @@
       "Sp. Attack": 120,
       "Sp. Defense": 70,
       "Speed": 70,
-    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/065.gif",
-    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/082.gif",
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/233.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/233.gif",
     "type": [
       "Electric"
     ],
@@ -3086,7 +3086,7 @@
     }]
   }, {
     "id": 83,
-    "num": "083",
+    "num": "234",
     "name": "Porygon2",
      "descriptiones": "",
     "descriptionus": "",
@@ -3096,8 +3096,8 @@
       "Sp. Attack": 58,
       "Sp. Defense": 62,
       "Speed": 60,
-    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/065.gif",
-    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/083.gif",
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/234.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/234.gif",
     "type": [
       "Normal",
       "Flying"
@@ -3116,7 +3116,7 @@
     ]
   }, {
     "id": 84,
-    "num": "084",
+    "num": "235",
     "name": "Stantler",
      "descriptiones": "",
     "descriptionus": "",
@@ -3126,8 +3126,8 @@
       "Sp. Attack": 35,
       "Sp. Defense": 35,
       "Speed": 75,
-    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/065.gif",
-    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/084.gif",
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/235.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/235.gif",
     "type": [
       "Normal",
       "Flying"
@@ -3154,7 +3154,7 @@
     }]
   }, {
     "id": 85,
-    "num": "085",
+    "num": "236",
     "name": "Smeargle",
      "descriptiones": "",
     "descriptionus": "",
@@ -3164,8 +3164,8 @@
       "Sp. Attack": 60,
       "Sp. Defense": 60,
       "Speed": 110,
-    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/065.gif",
-    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/085.gif",
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/236.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/236.gif",
     "type": [
       "Normal",
       "Flying"
@@ -3188,7 +3188,7 @@
     }]
   }, {
     "id": 86,
-    "num": "086",
+    "num": "237",
     "name": "Tyrogue",
      "descriptiones": "",
     "descriptionus": "",
@@ -3198,8 +3198,8 @@
       "Sp. Attack": 45,
       "Sp. Defense": 70,
       "Speed": 45,
-    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/065.gif",
-    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/086.gif",
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/237.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/237.gif",
     "type": [
       "Water"
     ],
@@ -3225,7 +3225,7 @@
     }]
   }, {
     "id": 87,
-    "num": "087",
+    "num": "238",
     "name": "Hitmontop",
      "descriptiones": "",
     "descriptionus": "",
@@ -3235,8 +3235,8 @@
       "Sp. Attack": 70,
       "Sp. Defense": 95,
       "Speed": 70,
-    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/065.gif",
-    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/087.gif",
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/238.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/238.gif",
     "type": [
       "Water",
       "Ice"
@@ -3261,7 +3261,7 @@
     }]
   }, {
     "id": 88,
-    "num": "088",
+    "num": "239",
     "name": "Smoochum",
      "descriptiones": "",
     "descriptionus": "",
@@ -3271,8 +3271,8 @@
       "Sp. Attack": 40,
       "Sp. Defense": 50,
       "Speed": 25,
-    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/065.gif",
-    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/088.gif",
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/239.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/239.gif",
     "type": [
       "Poison"
     ],
@@ -3295,7 +3295,7 @@
     }]
   }, {
     "id": 89,
-    "num": "089",
+    "num": "240",
     "name": "Elekid",
      "descriptiones": "",
     "descriptionus": "",
@@ -3305,8 +3305,8 @@
       "Sp. Attack": 65,
       "Sp. Defense": 100,
       "Speed": 50,
-    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/065.gif",
-    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/089.gif",
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/240.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/240.gif",
     "type": [
       "Poison"
     ],
@@ -3328,7 +3328,7 @@
     }]
   }, {
     "id": 90,
-    "num": "090",
+    "num": "241",
     "name": "Magby",
      "descriptiones": "",
     "descriptionus": "",
@@ -3338,8 +3338,8 @@
       "Sp. Attack": 45,
       "Sp. Defense": 25,
       "Speed": 40,
-    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/065.gif",
-    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/090.gif",
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/241.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/241.gif",
     "type": [
       "Water"
     ],
@@ -3362,7 +3362,7 @@
     }]
   }, {
     "id": 91,
-    "num": "091",
+    "num": "242",
     "name": "Miltank",
      "descriptiones": "",
     "descriptionus": "",
@@ -3372,8 +3372,8 @@
       "Sp. Attack": 85,
       "Sp. Defense": 45,
       "Speed": 70,
-    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/065.gif",
-    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/091.gif",
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/242.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/242.gif",
     "type": [
       "Water",
       "Ice"
@@ -3398,7 +3398,7 @@
     }]
   }, {
     "id": 92,
-    "num": "092",
+    "num": "243",
     "name": "Blissey",
      "descriptiones": "",
     "descriptionus": "",
@@ -3408,8 +3408,8 @@
       "Sp. Attack": 100,
       "Sp. Defense": 35,
       "Speed": 80,
-    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/065.gif",
-    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/092.gif",
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/243.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/243.gif",
     "type": [
       "Ghost",
       "Poison"
@@ -3438,7 +3438,7 @@
     }]
   }, {
     "id": 93,
-    "num": "093",
+    "num": "244",
     "name": "Haunter",
      "descriptiones": "",
     "descriptionus": "",
@@ -3448,8 +3448,8 @@
       "Sp. Attack": 115,
       "Sp. Defense": 55,
       "Speed": 95,
-    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/065.gif",
-    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/093.gif",
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/244.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/244.gif",
     "type": [
       "Ghost",
       "Poison"
@@ -3482,7 +3482,7 @@
     }]
   }, {
     "id": 94,
-    "num": "094",
+    "num": "245",
     "name": "Raikou",
      "descriptiones": "",
     "descriptionus": "",
@@ -3492,8 +3492,8 @@
       "Sp. Attack": 130,
       "Sp. Defense": 75,
       "Speed": 110,
-    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/065.gif",
-    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/094.gif",
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/245.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/245.gif",
     "type": [
       "Ghost",
       "Poison"
@@ -3521,7 +3521,7 @@
     }]
   }, {
     "id": 95,
-    "num": "095",
+    "num": "246",
     "name": "Entei",
      "descriptiones": "",
     "descriptionus": "",
@@ -3531,8 +3531,8 @@
       "Sp. Attack": 30,
       "Sp. Defense": 45,
       "Speed": 70,
-    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/065.gif",
-    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/095.gif",
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/246.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/246.gif",
     "type": [
       "Rock",
       "Ground"
@@ -3555,7 +3555,7 @@
     ]
   }, {
     "id": 96,
-    "num": "096",
+    "num": "247",
     "name": "Suicune",
      "descriptiones": "",
     "descriptionus": "",
@@ -3565,8 +3565,8 @@
       "Sp. Attack": 43,
       "Sp. Defense": 90,
       "Speed": 42,
-    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/065.gif",
-    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/096.gif",
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/247.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/247.gif",
     "type": [
       "Psychic"
     ],
@@ -3593,7 +3593,7 @@
     }]
   }, {
     "id": 97,
-    "num": "097",
+    "num": "248",
     "name": "Larvitar",
      "descriptiones": "",
     "descriptionus": "",
@@ -3603,8 +3603,8 @@
       "Sp. Attack": 73,
       "Sp. Defense": 115,
       "Speed": 67,
-    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/065.gif",
-    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/097.gif",
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/248.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/248.gif",
     "type": [
       "Psychic"
     ],
@@ -3627,7 +3627,7 @@
     }]
   }, {
     "id": 98,
-    "num": "098",
+    "num": "249",
     "name": "Krabby",
      "descriptiones": "",
     "descriptionus": "",
@@ -3637,8 +3637,8 @@
       "Sp. Attack": 25,
       "Sp. Defense": 25,
       "Speed": 50,
-    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/065.gif",
-    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/098.gif",
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/249.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/249.gif",
     "type": [
       "Water"
     ],
@@ -3664,7 +3664,7 @@
     }]
   }, {
     "id": 99,
-    "num": "099",
+    "num": "250",
     "name": "Pupitar",
      "descriptiones": "",
     "descriptionus": "",
@@ -3674,8 +3674,8 @@
       "Sp. Attack": 50,
       "Sp. Defense": 50,
       "Speed": 75,
-    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/065.gif",
-    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/099.gif",
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/250.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/250.gif",
     "type": [
       "Water"
     ],
@@ -3697,7 +3697,7 @@
     }]
   }, {
     "id": 100,
-    "num": "100",
+    "num": "251",
     "name": "Pupitar",
      "descriptiones": "",
     "descriptionus": "",
@@ -3707,8 +3707,8 @@
       "Sp. Attack": 55,
       "Sp. Defense": 55,
       "Speed": 100,
-    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/065.gif",
-    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/100.gif",
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/251.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/251.gif",
     "type": [
       "Electric"
     ],
