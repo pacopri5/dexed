@@ -2121,7 +2121,7 @@
   }, {
     "id": 58,
     "num": "209",
-    "name": "Growlithe",
+    "name": "Snubull",
      "descriptiones": "",
     "descriptionus": "",
        "HP": 55,
@@ -2159,7 +2159,7 @@
   }, {
     "id": 59,
     "num": "210",
-    "name": "Snubbull",
+    "name": "Granbull",
      "descriptiones": "",
     "descriptionus": "",
       "HP": 90,
@@ -2193,7 +2193,7 @@
   }, {
     "id": 60,
     "num": "211",
-    "name": "Granbull",
+    "name": "Qwilfish",
      "descriptiones": "",
     "descriptionus": "",
       "HP": 40,
@@ -2233,7 +2233,7 @@
   }, {
     "id": 61,
     "num": "212",
-    "name": "Qwilfish",
+    "name": "Scizor",
      "descriptiones": "",
     "descriptionus": "",
      "HP": 65,
@@ -2271,7 +2271,7 @@
   }, {
     "id": 62,
     "num": "213",
-    "name": "Scizor",
+    "name": "Shuckle",
      "descriptiones": "",
     "descriptionus": "",
       "HP": 90,
@@ -2311,7 +2311,7 @@
   }, {
     "id": 63,
     "num": "214",
-    "name": "Shuckle",
+    "name": "Heracross",
       "descriptiones": "",
     "descriptionus": "",
             "HP": 25,
@@ -2352,7 +2352,7 @@
   }, {
     "id": 64,
     "num": "215",
-    "name": "Heracross",
+    "name": "Sneasel",
       "descriptiones": "",
     "descriptionus": "",
        "HP": 40,
@@ -2391,7 +2391,7 @@
   }, {
     "id": 65,
     "num": "216",
-    "name": "Sneasel",
+    "name": "Teddiursa",
        "descriptiones": "",
     "descriptionus": "",
        "HP": 55,
@@ -2428,7 +2428,7 @@
   }, {
     "id": 66,
     "num": "217",
-    "name": "Teddiursa",
+    "name": "Ursaring",
      "descriptiones": "",
     "descriptionus": "",
        "HP": 70,
@@ -2469,7 +2469,7 @@
   }, {
     "id": 67,
     "num": "218",
-    "name": "Ursaring",
+    "name": "Slugma",
      "descriptiones": "",
     "descriptionus": "",
        "HP": 80,
@@ -2508,7 +2508,7 @@
   }, {
     "id": 68,
     "num": "219",
-    "name": "Slugma",
+    "name": "Magcargo",
      "descriptiones": "",
     "descriptionus": "",
        "HP": 90,
@@ -2545,7 +2545,7 @@
   }, {
     "id": 69,
     "num": "220",
-    "name": "Magcargo",
+    "name": "Swinub",
      "descriptiones": "",
     "descriptionus": "",
        "HP": 50,
@@ -2585,7 +2585,7 @@
   }, {
     "id": 70,
     "num": "221",
-    "name": "Swinub",
+    "name": "",
      "descriptiones": "",
     "descriptionus": "",
        "HP": 65,
