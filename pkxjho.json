@@ -3695,42 +3695,37 @@
       "num": "098",
       "name": "Krabby"
     }]
-  }, {
-    "id": 100,
+  },   {
+    "id": 251,
     "num": "251",
     "name": "Celebi",
-     "descriptiones": "",
+      "descriptiones": "",
     "descriptionus": "",
-       "HP": 40,
-      "Attack": 30,
-      "Defense": 50,
-      "Sp. Attack": 55,
-      "Sp. Defense": 55,
-      "Speed": 100,
+       "HP": 45,
+      "Attack": 49,
+      "Defense": 65,
+      "Sp. Attack": 49,
+      "Sp. Defense": 65,
+      "Speed": 45,
     "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/251.gif",
     "img": "https://pokemon-trainer.com/images/sprite/xyorasani/251.gif",
     "type": [
-      "Electric"
+      "Grass"
     ],
-    "height": "0.51 m",
-    "weight": "10.4 kg",
-    "candy": "Voltorb Candy",
-    "candy_count": 50,
-    "egg": "5 km",
-    "spawn_chance": 0.65,
-    "avg_spawns": 65,
-    "spawn_time": "04:36",
-    "multipliers": [
-      2.01,
-      2.02
-    ],
+    "height": "0.9 m",
+    "weight": "6.4 kg",
+    "candy": "None",
+    "egg": "Not in Eggs",
+    "spawn_chance": 0,
+    "avg_spawns": 0,
+    "spawn_time": "N/A",
+    "multipliers": null,
     "weaknesses": [
-      "Ground"
-    ],
-    "next_evolution": [{
-      "num": "10",
-      "name": "Electrode"
-    }]
-  }],
+      "Bug",
+      "Fire",
+      "Flying",
+      "Ice",
+      "Poison"
+    ]
+  }]
 }
-
