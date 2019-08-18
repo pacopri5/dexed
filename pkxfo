@@ -3523,8 +3523,8 @@
     }]
   }, {
     "id": 95,
-    "num": "095",
-    "name": "Onix",
+    "num": "481",
+    "name": "Mesprit",
      "descriptiones": "",
     "descriptionus": "",
       "HP": 35,
@@ -3533,8 +3533,8 @@
       "Sp. Attack": 30,
       "Sp. Defense": 45,
       "Speed": 70,
-    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/065.gif",
-    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/095.gif",
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/481.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/481.gif",
     "type": [
       "Rock",
       "Ground"
@@ -3557,8 +3557,8 @@
     ]
   }, {
     "id": 96,
-    "num": "096",
-    "name": "Drowzee",
+    "num": "482",
+    "name": "Azelf",
      "descriptiones": "",
     "descriptionus": "",
        "HP": 60,
@@ -3567,8 +3567,8 @@
       "Sp. Attack": 43,
       "Sp. Defense": 90,
       "Speed": 42,
-    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/065.gif",
-    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/096.gif",
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/482.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/482.gif",
     "type": [
       "Psychic"
     ],
@@ -3595,8 +3595,8 @@
     }]
   }, {
     "id": 97,
-    "num": "097",
-    "name": "Hypno",
+    "num": "483",
+    "name": "Dialga",
      "descriptiones": "",
     "descriptionus": "",
       "HP": 85,
@@ -3605,8 +3605,8 @@
       "Sp. Attack": 73,
       "Sp. Defense": 115,
       "Speed": 67,
-    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/065.gif",
-    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/097.gif",
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/483.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/483.gif",
     "type": [
       "Psychic"
     ],
@@ -3629,8 +3629,8 @@
     }]
   }, {
     "id": 98,
-    "num": "098",
-    "name": "Krabby",
+    "num": "484",
+    "name": "Palkia",
      "descriptiones": "",
     "descriptionus": "",
       "HP": 30,
@@ -3639,8 +3639,8 @@
       "Sp. Attack": 25,
       "Sp. Defense": 25,
       "Speed": 50,
-    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/065.gif",
-    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/098.gif",
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/484.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/484.gif",
     "type": [
       "Water"
     ],
@@ -3666,8 +3666,8 @@
     }]
   }, {
     "id": 99,
-    "num": "099",
-    "name": "Kingler",
+    "num": "485",
+    "name": "Heatran",
      "descriptiones": "",
     "descriptionus": "",
        "HP": 55,
@@ -3676,8 +3676,8 @@
       "Sp. Attack": 50,
       "Sp. Defense": 50,
       "Speed": 75,
-    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/065.gif",
-    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/099.gif",
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/485.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/485.gif",
     "type": [
       "Water"
     ],
@@ -3699,8 +3699,8 @@
     }]
   }, {
     "id": 100,
-    "num": "100",
-    "name": "Voltorb",
+    "num": "486",
+    "name": "Heatran",
      "descriptiones": "",
     "descriptionus": "",
        "HP": 40,
@@ -3709,8 +3709,8 @@
       "Sp. Attack": 55,
       "Sp. Defense": 55,
       "Speed": 100,
-    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/065.gif",
-    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/100.gif",
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/486.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/486.gif",
     "type": [
       "Electric"
     ],
@@ -3735,8 +3735,8 @@
     }]
   }, {
     "id": 101,
-    "num": "101",
-    "name": "Electrode",
+    "num": "487",
+    "name": "Giratina",
      "descriptiones": "",
     "descriptionus": "",
        "HP": 60,
@@ -3745,8 +3745,8 @@
       "Sp. Attack": 80,
       "Sp. Defense": 80,
       "Speed": 150,
-    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/065.gif",
-    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/101.gif",
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/487.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/487.gif",
     "type": [
       "Electric"
     ],
@@ -3767,8 +3767,8 @@
     }]
   }, {
     "id": 102,
-    "num": "102",
-    "name": "Exeggcute",
+    "num": "488",
+    "name": "Cresselia",
      "descriptiones": "",
     "descriptionus": "",
        "HP": 60,
@@ -3777,8 +3777,8 @@
       "Sp. Attack": 60,
       "Sp. Defense": 45,
       "Speed": 40,
-    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/065.gif",
-    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/102.gif",
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/488.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/488.gif",
     "type": [
       "Grass",
       "Psychic"
@@ -3810,8 +3810,8 @@
     }]
   }, {
     "id": 103,
-    "num": "103",
-    "name": "Exeggutor",
+    "num": "489",
+    "name": "Phione",
      "descriptiones": "",
     "descriptionus": "",
         "HP": 95,
@@ -3820,8 +3820,8 @@
       "Sp. Attack": 125,
       "Sp. Defense": 75,
       "Speed": 55,
-    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/065.gif",
-    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/103.gif",
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/489.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/489.gif",
     "type": [
       "Grass",
       "Psychic"
@@ -3849,8 +3849,8 @@
     }]
   }, {
     "id": 104,
-    "num": "104",
-    "name": "Cubone",
+    "num": "490",
+    "name": "Manaphy",
      "descriptiones": "",
     "descriptionus": "",
        "HP": 50,
@@ -3859,8 +3859,8 @@
       "Sp. Attack": 40,
       "Sp. Defense": 50,
       "Speed": 35,
-    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/065.gif",
-    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/104.gif",
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/490.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/490.gif",
     "type": [
       "Ground"
     ],
@@ -3884,8 +3884,8 @@
     }]
   }, {
     "id": 105,
-    "num": "105",
-    "name": "Marowak",
+    "num": "491",
+    "name": "Darkrai",
      "descriptiones": "",
     "descriptionus": "",
              "HP": 60,
@@ -3894,8 +3894,8 @@
       "Sp. Attack": 50,
       "Sp. Defense": 80,
       "Speed": 45,
-    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/065.gif",
-    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/105.gif",
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/491.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/491.gif",
     "type": [
       "Ground"
     ],
@@ -3918,8 +3918,8 @@
     }]
   }, {
     "id": 106,
-    "num": "106",
-    "name": "Hitmonlee",
+    "num": "492",
+    "name": "Shaymin",
      "descriptiones": "",
     "descriptionus": "",
        "HP": 50,
@@ -3928,8 +3928,8 @@
       "Sp. Attack": 35,
       "Sp. Defense": 110,
       "Speed": 87,
-    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/065.gif",
-    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/106.gif",
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/492.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/492.gif",
     "type": [
       "Fighting"
     ],
@@ -3948,8 +3948,8 @@
     ]
   }, {
     "id": 107,
-    "num": "107",
-    "name": "Hitmonchan",
+    "num": "493",
+    "name": "Arceus",
      "descriptiones": "",
     "descriptionus": "",
        "HP": 50,
@@ -3958,8 +3958,8 @@
       "Sp. Attack": 35,
       "Sp. Defense": 110,
       "Speed": 76,
-    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/065.gif",
-    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/107.gif",
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/493.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/493.gif",
     "type": [
       "Fighting"
     ],
