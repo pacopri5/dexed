@@ -853,8 +853,8 @@
     }]
   }, {
     "id": 23,
-    "num": "023",
-    "name": "Ekans",
+    "num": "516",
+    "name": "Simipour",
      "descriptiones": "Ekans se enrosca para descansar. Adoptando esta posición puede responder rápidamente a cualquier amenaza que le aceche desde cualquier lugar, levantando la cabeza con una feroz mirada.",
     "descriptionus": "Ekans curls itself up in a spiral while it rests. Assuming this position allows it to quickly respond to a threat from any direction with a glare from its upraised head.",
     "HP": 35,
@@ -863,8 +863,8 @@
       "Sp. Attack": 40,
       "Sp. Defense": 54,
       "Speed": 55,
-    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/023.gif",
-    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/023.gif",
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/516.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/516.gif",
     "type": [
       "Poison"
     ],
@@ -890,8 +890,8 @@
     }]
   }, {
     "id": 24,
-    "num": "024",
-    "name": "Arbok",
+    "num": "517",
+    "name": "Munna",
      "descriptiones": "Este Pokémon es tremendamente fuerte, puede oprimir cualquier cosa con su cuerpo y hasta es capaz de estrujar un barril de acero. Una vez que Arbok se enrosca a su víctima, no hay forma de escapar de su asfixiante abrazo.",
     "descriptionus": "This Pokémon is terrifically strong in order to constrict things with its body. It can even flatten steel oil drums. Once Arbok wraps its body around its foe, escaping its crunching embrace is impossible.",
      "HP": 60,
@@ -900,8 +900,8 @@
       "Sp. Attack": 65,
       "Sp. Defense": 79,
       "Speed": 80,
-    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/024.gif",
-    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/024.gif",
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/517.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/517.gif",
     "type": [
       "Poison"
     ],
@@ -923,8 +923,8 @@
     }]
   }, {
     "id": 25,
-    "num": "025",
-    "name": "Pikachu",
+    "num": "518",
+    "name": "Musharna",
     "descriptiones": "Cada vez que un Pikachu se encuentra con algo nuevo, le lanza una descarga eléctrica. Cuando se ve alguna baya chamuscada, es muy probable que sea obra de un Pikachu, ya que a veces no controlan la intensidad de la descarga.",
     "descriptionus": "Whenever Pikachu comes across something new, it blasts it with a jolt of electricity. If you come across a blackened berry, it's evidence that this Pokémon mistook the intensity of its charge.",
       "HP": 35,
@@ -933,8 +933,8 @@
       "Sp. Attack": 50,
       "Sp. Defense": 50,
       "Speed": 90,
-    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/025.gif",
-    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/025.gif",
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/518.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/518.gif",
     "type": [
       "Electric"
     ],
@@ -956,8 +956,8 @@
     }]
   }, {
     "id": 26,
-    "num": "026",
-    "name": "Raichu",
+    "num": "519",
+    "name": "Pidove",
      "descriptiones": "Si las bolsas de los mofletes se le cargan demasiado, Raichu planta la cola en el suelo para liberar electricidad. Es común encontrar zonas chamuscadas cerca de la madriguera de este Pokémon.",
     "descriptionus": "If the electrical sacs become excessively charged, Raichu plants its tail in the ground and discharges. Scorched patches of ground will be found near this Pokémon's nest.",
     "HP": 60,
@@ -966,8 +966,8 @@
       "Sp. Attack": 90,
       "Sp. Defense": 80,
       "Speed": 110,
-    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/026.gif",
-    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/026.gif",
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/519.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/519.gif",
     "type": [
       "Electric"
     ],
@@ -988,8 +988,8 @@
     }]
   }, {
     "id": 27,
-    "num": "027",
-    "name": "Sandshrew",
+    "num": "520",
+    "name": "Tranquill",
      "descriptiones": "Sandshrew es capaz de absorber agua y no perder ni una gota, algo que le permite sobrevivir en el desierto. Este Pokémon se enrosca para defenderse de los enemigos.",
     "descriptionus": "Sandshrew's body is configured to absorb water without waste, enabling it to survive in an arid desert. This Pokémon curls up to protect itself from its enemies.",
     "HP": 50,
@@ -998,8 +998,8 @@
       "Sp. Attack": 20,
       "Sp. Defense": 30,
       "Speed": 40,
-    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/027.gif",
-    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/027.gif",
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/520.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/520.gif",
     "type": [
       "Ground"
     ],
@@ -1023,8 +1023,8 @@
     }]
   }, {
     "id": 28,
-    "num": "028",
-    "name": "Sandslash",
+    "num": "521",
+    "name": "Unfezant",
      "descriptiones": "Sandslash está recubierto de duras púas que son partes endurecidas de la piel. Suele mudarlas una vez al año; debajo de las viejas púas crecen unas nuevas que las sustituyen.",
     "descriptionus": "Sandslash's body is covered by tough spikes, which are hardened sections of its hide. Once a year, the old spikes fall out, to be replaced with new spikes that grow out from beneath the old ones.",
      "HP": 75,
@@ -1033,8 +1033,8 @@
       "Sp. Attack": 45,
       "Sp. Defense": 55,
       "Speed": 65,
-    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/028.gif",
-    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/028.gif",
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/521.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/521.gif",
     "type": [
       "Ground"
     ],
@@ -1057,8 +1057,8 @@
     }]
   }, {
     "id": 29,
-    "num": "029",
-    "name": "Nidoran ♀ (Female)",
+    "num": "522",
+    "name": "Blitzle",
      "descriptiones": "Nidoran♀ tiene púas que segregan un veneno muy potente. Se piensa que las desarrolló como protección del cuerpo tan pequeño que tiene. Cuando se enfada, libera una horrible sustancia tóxica por el cuerno.",
     "descriptionus": "Nidoran♀ has barbs that secrete a powerful poison. They are thought to have developed as protection for this small-bodied Pokémon. When enraged, it releases a horrible toxin from its horn.",
     "HP": 55,
@@ -1067,8 +1067,8 @@
       "Sp. Attack": 40,
       "Sp. Defense": 40,
       "Speed": 41,
-    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/029.gif",
-    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/029.gif",
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/522.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/522.gif",
     "type": [
       "Poison"
     ],
@@ -1097,8 +1097,8 @@
     }]
   }, {
     "id": 30,
-    "num": "030",
-    "name": "Nidorina",
+    "num": "523",
+    "name": "Zebstrika",
      "descriptiones": "Cuando están en familia o con sus amigos, esconden las púas para evitar accidentes. Según parece, se alteran bastante si se separan del grupo.",
     "descriptionus": "When Nidorina are with their friends or family, they keep their barbs tucked away to prevent hurting each other. This Pokémon appears to become nervous if separated from the others.",
      "HP": 70,
@@ -1107,8 +1107,8 @@
       "Sp. Attack": 55,
       "Sp. Defense": 55,
       "Speed": 56,
-    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/030.gif",
-    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/030.gif",
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/523.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/523.gif",
     "type": [
       "Poison"
     ],
@@ -1138,8 +1138,8 @@
     }]
   }, {
     "id": 31,
-    "num": "031",
-    "name": "Nidoqueen",
+    "num": "524",
+    "name": "Roggenrola",
      "descriptiones": "Nidoqueen tiene el cuerpo totalmente recubierto de escamas durísimas. Suele lanzar por los aires a sus rivales de los violentos golpes que les propina. Cuando se trata de defender a sus crías, alcanza su nivel máximo de fuerza.",
     "descriptionus": "Nidoqueen's body is encased in extremely hard scales. It is adept at sending foes flying with harsh tackles. This Pokémon is at its strongest when it is defending its young.",
     "HP": 90,
@@ -1148,8 +1148,8 @@
       "Sp. Attack": 75,
       "Sp. Defense": 85,
       "Speed": 76,
-    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/031.gif",
-    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/031.gif",
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/524.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/524.gif",
     "type": [
       "Poison",
       "Ground"
@@ -1177,8 +1177,8 @@
     }]
   }, {
     "id": 32,
-    "num": "032",
-    "name": "Nidoran ♂ (Male)",
+    "num": "525",
+    "name": "Boldore",
      "descriptiones": "",
     "descriptionus": "",
     "HP": 46,
@@ -1187,8 +1187,8 @@
       "Sp. Attack": 40,
       "Sp. Defense": 40,
       "Speed": 50,
-    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/031.gif",
-    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/032.gif",
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/525.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/525.gif",
     "type": [
       "Poison"
     ],
@@ -1217,8 +1217,8 @@
     }]
   }, {
     "id": 33,
-    "num": "033",
-    "name": "Nidorino",
+    "num": "526",
+    "name": "Gigalith",
      "descriptiones": "",
     "descriptionus": "",
     "HP": 61,
@@ -1227,8 +1227,8 @@
       "Sp. Attack": 55,
       "Sp. Defense": 55,
       "Speed": 65,
-    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/019.gif",
-    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/033.gif",
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/526.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/526.gif",
     "type": [
       "Poison"
     ],
@@ -1255,8 +1255,8 @@
     }]
   }, {
     "id": 34,
-    "num": "034",
-    "name": "Nidoking",
+    "num": "527",
+    "name": "Woobat",
      "descriptiones": "",
     "descriptionus": "",
      "HP": 81,
@@ -1265,8 +1265,8 @@
       "Sp. Attack": 85,
       "Sp. Defense": 75,
       "Speed": 85,
-    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/019.gif",
-    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/034.gif",
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/527.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/527.gif",
     "type": [
       "Poison",
       "Ground"
@@ -1294,8 +1294,8 @@
     }]
   }, {
     "id": 35,
-    "num": "035",
-    "name": "Clefairy",
+    "num": "528",
+    "name": "Swoobat",
      "descriptiones": "",
     "descriptionus": "",
     "HP": 70,
@@ -1304,8 +1304,8 @@
       "Sp. Attack": 60,
       "Sp. Defense": 65,
       "Speed": 35,
-    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/019.gif",
-    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/035.gif",
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/528.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/528.gif",
     "type": [
       "Normal"
     ],
@@ -1330,8 +1330,8 @@
     }]
   }, {
     "id": 36,
-    "num": "036",
-    "name": "Clefable",
+    "num": "529",
+    "name": "Drilbur",
      "descriptiones": "",
     "descriptionus": "",
     "HP": 95,
@@ -1340,8 +1340,8 @@
       "Sp. Attack": 95,
       "Sp. Defense": 90,
       "Speed": 60,
-    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/019.gif",
-    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/036.gif",
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/529.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/529.gif",
     "type": [
       "Normal"
     ],
@@ -1362,8 +1362,8 @@
     }]
   }, {
     "id": 37,
-    "num": "037",
-    "name": "Vulpix",
+    "num": "530",
+    "name": "Excadrill",
      "descriptiones": "",
     "descriptionus": "",
     "HP": 38,
@@ -1372,8 +1372,8 @@
       "Sp. Attack": 50,
       "Sp. Defense": 65,
       "Speed": 65,
-    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/019.gif",
-    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/037.gif",
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/530.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/530.gif",
     "type": [
       "Fire"
     ],
@@ -1400,8 +1400,8 @@
     }]
   }, {
     "id": 38,
-    "num": "038",
-    "name": "Ninetales",
+    "num": "531",
+    "name": "Audino",
      "descriptiones": "",
     "descriptionus": "",
      "HP": 73,
@@ -1410,8 +1410,8 @@
       "Sp. Attack": 81,
       "Sp. Defense": 100,
       "Speed": 100,
-    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/038.gif",
-    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/038.gif",
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/531.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/531.gif",
     "type": [
       "Fire"
     ],
@@ -1434,8 +1434,8 @@
     }]
   }, {
     "id": 39,
-    "num": "039",
-    "name": "Jigglypuff",
+    "num": "532",
+    "name": "Timburr",
      "descriptiones": "",
     "descriptionus": "",
     "HP": 115,
@@ -1444,8 +1444,8 @@
       "Sp. Attack": 45,
       "Sp. Defense": 25,
       "Speed": 20,
-    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/019.gif",
-    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/039.gif",
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/532.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/532.gif",
     "type": [
       "Normal"
     ],
@@ -1467,8 +1467,8 @@
     }]
   }, {
     "id": 40,
-    "num": "040",
-    "name": "Wigglytuff",
+    "num": "533",
+    "name": "Gurdurr",
      "descriptiones": "",
     "descriptionus": "",
      "HP": 140,
@@ -1477,8 +1477,8 @@
       "Sp. Attack": 85,
       "Sp. Defense": 50,
       "Speed": 45,
-    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/019.gif",
-    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/040.gif",
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/533.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/533.gif",
     "type": [
       "Normal"
     ],
@@ -1499,8 +1499,8 @@
     }]
   }, {
     "id": 41,
-    "num": "041",
-    "name": "Zubat",
+    "num": "534",
+    "name": "Conkeldurr",
      "descriptiones": "",
     "descriptionus": "",
       "HP": 40,
@@ -1509,8 +1509,8 @@
       "Sp. Attack": 30,
       "Sp. Defense": 40,
       "Speed": 55,
-    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/019.gif",
-    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/041.gif",
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/534.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/534.gif",
     "type": [
       "Poison",
       "Flying"
@@ -1539,8 +1539,8 @@
     }]
   }, {
     "id": 42,
-    "num": "042",
-    "name": "Golbat",
+    "num": "535",
+    "name": "Tympole",
      "descriptiones": "",
     "descriptionus": "",
      "HP": 75,
@@ -1549,8 +1549,8 @@
       "Sp. Attack": 65,
       "Sp. Defense": 75,
       "Speed": 90,
-    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/019.gif",
-    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/042.gif",
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/535.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/535.gif",
     "type": [
       "Poison",
       "Flying"
@@ -1575,8 +1575,8 @@
     }]
   }, {
     "id": 43,
-    "num": "043",
-    "name": "Oddish",
+    "num": "536",
+    "name": "Palpitoad",
      "descriptiones": "",
     "descriptionus": "",
      "HP": 45,
@@ -1585,8 +1585,8 @@
       "Sp. Attack": 75,
       "Sp. Defense": 65,
       "Speed": 30,
-    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/019.gif",
-    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/043.gif",
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/536.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/536.gif",
     "type": [
       "Grass",
       "Poison"
@@ -1615,8 +1615,8 @@
     }]
   }, {
     "id": 44,
-    "num": "044",
-    "name": "Gloom",
+    "num": "537",
+    "name": "Seismitoad",
      "descriptiones": "",
     "descriptionus": "",
           "HP": 60,
@@ -1625,8 +1625,8 @@
       "Sp. Attack": 85,
       "Sp. Defense": 75,
       "Speed": 40,
-    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/019.gif",
-    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/044.gif",
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/537.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/537.gif",
     "type": [
       "Grass",
       "Poison"
@@ -1656,8 +1656,8 @@
     }]
   }, {
     "id": 45,
-    "num": "045",
-    "name": "Vileplume",
+    "num": "538",
+    "name": "Throh",
       "descriptiones": "",
     "descriptionus": "",
     "HP": 75,
@@ -1666,8 +1666,8 @@
       "Sp. Attack": 110,
       "Sp. Defense": 90,
       "Speed": 50,
-    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/019.gif",
-    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/045.gif",
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/538.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/538.gif",
     "type": [
       "Grass",
       "Poison"
@@ -1695,8 +1695,8 @@
     }]
   }, {
     "id": 46,
-    "num": "046",
-    "name": "Paras",
+    "num": "539",
+    "name": "Sawk",
      "descriptiones": "",
     "descriptionus": "",
      "HP": 35,
@@ -1705,8 +1705,8 @@
       "Sp. Attack": 45,
       "Sp. Defense": 55,
       "Speed": 25,
-    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/019.gif",
-    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/046.gif",
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/539.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/539.gif",
     "type": [
       "Bug",
       "Grass"
@@ -1734,8 +1734,8 @@
     }]
   }, {
     "id": 47,
-    "num": "047",
-    "name": "Parasect",
+    "num": "540",
+    "name": "Sewaddle",
      "descriptiones": "",
     "descriptionus": "",
            "HP": 60,
@@ -1744,8 +1744,8 @@
       "Sp. Attack": 60,
       "Sp. Defense": 80,
       "Speed": 30,
-    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/019.gif",
-    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/047.gif",
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/540.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/540.gif",
     "type": [
       "Bug",
       "Grass"
@@ -1772,8 +1772,8 @@
     }]
   }, {
     "id": 48,
-    "num": "048",
-    "name": "Venonat",
+    "num": "541",
+    "name": "Swadloon",
      "descriptiones": "",
     "descriptionus": "",
      "HP": 60,
@@ -1782,8 +1782,8 @@
       "Sp. Attack": 40,
       "Sp. Defense": 55,
       "Speed": 45,
-    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/048.gif",
-    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/048.gif",
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/541.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/541.gif",
     "type": [
       "Bug",
       "Poison"
@@ -1812,8 +1812,8 @@
     }]
   }, {
     "id": 49,
-    "num": "049",
-    "name": "Venomoth",
+    "num": "542",
+    "name": "Leavanny",
      "descriptiones": "",
     "descriptionus": "",
      "HP": 70,
@@ -1822,8 +1822,8 @@
       "Sp. Attack": 90,
       "Sp. Defense": 75,
       "Speed": 90,
-    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/019.gif",
-    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/049.gif",
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/542.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/542.gif",
     "type": [
       "Bug",
       "Poison"
@@ -1848,8 +1848,8 @@
     }]
   }, {
     "id": 50,
-    "num": "050",
-    "name": "Diglett",
+    "num": "543",
+    "name": "Venipede",
      "descriptiones": "",
     "descriptionus": "",
      "HP": 10,
@@ -1858,8 +1858,8 @@
       "Sp. Attack": 35,
       "Sp. Defense": 45,
       "Speed": 95,
-    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/019.gif",
-    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/050.gif",
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/543.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/543.gif",
     "type": [
       "Ground"
     ],
@@ -1883,8 +1883,8 @@
     }]
   }, {
     "id": 51,
-    "num": "051",
-    "name": "Dugtrio",
+    "num": "544",
+    "name": "Whirlipede",
      "descriptiones": "",
     "descriptionus": "",
      "HP": 35,
@@ -1893,8 +1893,8 @@
       "Sp. Attack": 50,
       "Sp. Defense": 70,
       "Speed": 120,
-    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/051.gif",
-    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/051.gif",
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/544.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/544.gif",
     "type": [
       "Ground"
     ],
@@ -1917,8 +1917,8 @@
     }]
   }, {
     "id": 52,
-    "num": "052",
-    "name": "Meowth",
+    "num": "545",
+    "name": "Scolipede",
      "descriptiones": "",
     "descriptionus": "",
      "HP": 40,
@@ -1927,8 +1927,8 @@
       "Sp. Attack": 40,
       "Sp. Defense": 40,
       "Speed": 90,
-    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/052.gif",
-    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/052.gif",
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/545.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/545.gif",
     "type": [
       "Normal"
     ],
@@ -1950,8 +1950,8 @@
     }]
   }, {
     "id": 53,
-    "num": "053",
-    "name": "Persian",
+    "num": "546",
+    "name": "Cottonee",
        "descriptiones": "",
     "descriptionus": "",
            "HP": 65,
@@ -1960,8 +1960,8 @@
       "Sp. Attack": 65,
       "Sp. Defense": 65,
       "Speed": 115,
-    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/052.gif",
-    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/053.gif",
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/546.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/546.gif",
     "type": [
       "Normal"
     ],
@@ -1982,8 +1982,8 @@
     }]
   }, {
     "id": 54,
-    "num": "054",
-    "name": "Psyduck",
+    "num": "547",
+    "name": "Whimsicott",
        "descriptiones": "",
     "descriptionus": "",
       "HP": 50,
@@ -1992,8 +1992,8 @@
       "Sp. Attack": 65,
       "Sp. Defense": 50,
       "Speed": 55,
-    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/052.gif",
-    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/054.gif",
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/547.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/547.gif",
     "type": [
       "Water"
     ],
@@ -2016,8 +2016,8 @@
     }]
   }, {
     "id": 55,
-    "num": "055",
-    "name": "Golduck",
+    "num": "548",
+    "name": "Petilil",
      "descriptiones": "",
     "descriptionus": "",
       "HP": 80,
@@ -2026,8 +2026,8 @@
       "Sp. Attack": 95,
       "Sp. Defense": 80,
       "Speed": 85,
-    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/052.gif",
-    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/055.gif",
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/548.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/548.gif",
     "type": [
       "Water"
     ],
@@ -2049,8 +2049,8 @@
     }]
   }, {
     "id": 56,
-    "num": "056",
-    "name": "Mankey",
+    "num": "549",
+    "name": "Lilligant",
      "descriptiones": "",
     "descriptionus": "",
        "HP": 40,
@@ -2059,8 +2059,8 @@
       "Sp. Attack": 35,
       "Sp. Defense": 45,
       "Speed": 70,
-    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/052.gif",
-    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/056.gif",
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/549.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/549.gif",
     "type": [
       "Fighting"
     ],
@@ -2087,8 +2087,8 @@
     }]
   }, {
     "id": 57,
-    "num": "057",
-    "name": "Primeape",
+    "num": "550",
+    "name": "Basculin",
      "descriptiones": "",
     "descriptionus": "",
       "HP": 65,
@@ -2097,8 +2097,8 @@
       "Sp. Attack": 60,
       "Sp. Defense": 70,
       "Speed": 95,
-    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/052.gif",
-    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/057.gif",
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/550.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/550.gif",
     "type": [
       "Fighting"
     ],
@@ -2121,8 +2121,8 @@
     }]
   }, {
     "id": 58,
-    "num": "058",
-    "name": "Growlithe",
+    "num": "551",
+    "name": "Sandile",
      "descriptiones": "",
     "descriptionus": "",
        "HP": 55,
@@ -2131,8 +2131,8 @@
       "Sp. Attack": 70,
       "Sp. Defense": 50,
       "Speed": 60,
-    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/052.gif",
-    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/058.gif",
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/551.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/551.gif",
     "type": [
       "Fire"
     ],
@@ -2159,8 +2159,8 @@
     }]
   }, {
     "id": 59,
-    "num": "059",
-    "name": "Arcanine",
+    "num": "552",
+    "name": "Krokorok",
      "descriptiones": "",
     "descriptionus": "",
       "HP": 90,
@@ -2169,8 +2169,8 @@
       "Sp. Attack": 100,
       "Sp. Defense": 80,
       "Speed": 95,
-    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/052.gif",
-    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/059.gif",
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/552.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/552.gif",
     "type": [
       "Fire"
     ],
@@ -2193,8 +2193,8 @@
     }]
   }, {
     "id": 60,
-    "num": "060",
-    "name": "Poliwag",
+    "num": "553",
+    "name": "Krookodile",
      "descriptiones": "",
     "descriptionus": "",
       "HP": 40,
@@ -2203,8 +2203,8 @@
       "Sp. Attack": 40,
       "Sp. Defense": 40,
       "Speed": 90,
-    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/052.gif",
-    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/060.gif",
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/553.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/553.gif",
     "type": [
       "Water"
     ],
@@ -2233,8 +2233,8 @@
     }]
   }, {
     "id": 61,
-    "num": "061",
-    "name": "Poliwhirl",
+    "num": "554",
+    "name": "Darumaka",
      "descriptiones": "",
     "descriptionus": "",
      "HP": 65,
@@ -2243,8 +2243,8 @@
       "Sp. Attack": 50,
       "Sp. Defense": 50,
       "Speed": 90,
-    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/052.gif",
-    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/061.gif",
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/554.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/554.gif",
     "type": [
       "Water"
     ],
@@ -2271,8 +2271,8 @@
     }]
   }, {
     "id": 62,
-    "num": "062",
-    "name": "Poliwrath",
+    "num": "555",
+    "name": "Darmanitan",
      "descriptiones": "",
     "descriptionus": "",
       "HP": 90,
@@ -2281,8 +2281,8 @@
       "Sp. Attack": 70,
       "Sp. Defense": 90,
       "Speed": 70,
-    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/062.gif",
-    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/062.gif",
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/555.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/555.gif",
     "type": [
       "Water",
       "Fighting"
@@ -2311,8 +2311,8 @@
     }]
   }, {
     "id": 63,
-    "num": "063",
-    "name": "Abra",
+    "num": "556",
+    "name": "Maractus",
       "descriptiones": "",
     "descriptionus": "",
             "HP": 25,
@@ -2321,8 +2321,8 @@
       "Sp. Attack": 105,
       "Sp. Defense": 55,
       "Speed": 90,
-    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/063.gif",
-    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/063.gif",
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/556.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/556.gif",
     "type": [
       "Psychic"
     ],
@@ -2352,8 +2352,8 @@
     }]
   }, {
     "id": 64,
-    "num": "064",
-    "name": "Kadabra",
+    "num": "557",
+    "name": "Dwebble",
       "descriptiones": "",
     "descriptionus": "",
        "HP": 40,
@@ -2362,8 +2362,8 @@
       "Sp. Attack": 120,
       "Sp. Defense": 70,
       "Speed": 105,
-    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/064.gif",
-    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/064.gif",
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/557.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/557.gif",
     "type": [
       "Psychic"
     ],
@@ -2391,8 +2391,8 @@
     }]
   }, {
     "id": 65,
-    "num": "065",
-    "name": "Alakazam",
+    "num": "558",
+    "name": "Crustle",
        "descriptiones": "",
     "descriptionus": "",
        "HP": 55,
@@ -2401,8 +2401,8 @@
       "Sp. Attack": 135,
       "Sp. Defense": 95,
       "Speed": 120,
-    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/065.gif",
-    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/065.gif",
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/558.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/558.gif",
     "type": [
       "Psychic"
     ],
@@ -2428,8 +2428,8 @@
     }]
   }, {
     "id": 66,
-    "num": "066",
-    "name": "Machop",
+    "num": "559",
+    "name": "Scraggy",
      "descriptiones": "",
     "descriptionus": "",
        "HP": 70,
@@ -2438,8 +2438,8 @@
       "Sp. Attack": 35,
       "Sp. Defense": 35,
       "Speed": 35,
-    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/065.gif",
-    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/066.gif",
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/559.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/559.gif",
     "type": [
       "Fighting"
     ],
@@ -2469,8 +2469,8 @@
     }]
   }, {
     "id": 67,
-    "num": "067",
-    "name": "Machoke",
+    "num": "560",
+    "name": "Scrafty",
      "descriptiones": "",
     "descriptionus": "",
        "HP": 80,
@@ -2479,8 +2479,8 @@
       "Sp. Attack": 50,
       "Sp. Defense": 60,
       "Speed": 45,
-    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/065.gif",
-    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/067.gif",
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/560.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/560.gif",
     "type": [
       "Fighting"
     ],
@@ -2508,8 +2508,8 @@
     }]
   }, {
     "id": 68,
-    "num": "068",
-    "name": "Machamp",
+    "num": "561",
+    "name": "Sigilyph",
      "descriptiones": "",
     "descriptionus": "",
        "HP": 90,
@@ -2518,8 +2518,8 @@
       "Sp. Attack": 65,
       "Sp. Defense": 85,
       "Speed": 55,
-    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/065.gif",
-    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/068.gif",
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/561.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/561.gif",
     "type": [
       "Fighting"
     ],
@@ -2545,8 +2545,8 @@
     }]
   }, {
     "id": 69,
-    "num": "069",
-    "name": "Bellsprout",
+    "num": "562",
+    "name": "Yamask",
      "descriptiones": "",
     "descriptionus": "",
        "HP": 50,
@@ -2555,8 +2555,8 @@
       "Sp. Attack": 70,
       "Sp. Defense": 30,
       "Speed": 40,
-    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/065.gif",
-    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/069.gif",
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/562.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/562.gif",
     "type": [
       "Grass",
       "Poison"
@@ -2585,8 +2585,8 @@
     }]
   }, {
     "id": 70,
-    "num": "070",
-    "name": "Weepinbell",
+    "num": "563",
+    "name": "Cofagrigus",
      "descriptiones": "",
     "descriptionus": "",
        "HP": 65,
@@ -2595,8 +2595,8 @@
       "Sp. Attack": 85,
       "Sp. Defense": 45,
       "Speed": 55,
-    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/065.gif",
-    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/070.gif",
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/563.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/563.gif",
     "type": [
       "Grass",
       "Poison"
@@ -2626,8 +2626,8 @@
     }]
   }, {
     "id": 71,
-    "num": "071",
-    "name": "Victreebel",
+    "num": "564",
+    "name": "Tirtouga",
      "descriptiones": "",
     "descriptionus": "",
        "HP": 80,
@@ -2636,8 +2636,8 @@
       "Sp. Attack": 100,
       "Sp. Defense": 70,
       "Speed": 70,
-    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/065.gif",
-    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/071.gif",
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/564.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/564.gif",
     "type": [
       "Grass",
       "Poison"
@@ -2665,8 +2665,8 @@
     }]
   }, {
     "id": 72,
-    "num": "072",
-    "name": "Tentacool",
+    "num": "565",
+    "name": "Carracosta",
      "descriptiones": "",
     "descriptionus": "",
         "HP": 40,
@@ -2675,8 +2675,8 @@
       "Sp. Attack": 50,
       "Sp. Defense": 100,
       "Speed": 70,
-    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/065.gif",
-    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/072.gif",
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/565.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/565.gif",
     "type": [
       "Water",
       "Poison"
