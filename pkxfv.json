@@ -819,8 +819,8 @@
     }]
   }, {
     "id": 22,
-    "num": "022",
-    "name": "Fearow",
+    "num": "515",
+    "name": "Panpour",
      "descriptiones": "A Fearow se le reconoce por tener un pescuezo y un pico largos que le permiten cazar en tierra y agua. Tiene una gran habilidad moviendo el fino pico para atrapar a sus presas.",
     "descriptionus": "Fearow is recognized by its long neck and elongated beak. They are conveniently shaped for catching prey in soil or water. It deftly moves its long and skinny beak to pluck prey.",
      "HP": 65,
@@ -829,8 +829,8 @@
       "Sp. Attack": 61,
       "Sp. Defense": 61,
       "Speed": 100,
-    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/022.gif",
-    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/022.gif",
+    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/515.gif",
+    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/515.gif",
     "type": [
       "Normal",
       "Flying"
