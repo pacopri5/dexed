@@ -2509,7 +2509,7 @@
   }, {
     "id": 68,
     "num": "789",
-    "name": "Yveltal",
+    "name": "Cosmog",
      "descriptiones": "",
     "descriptionus": "",
        "HP": 90,
@@ -2518,8 +2518,8 @@
       "Sp. Attack": 65,
       "Sp. Defense": 85,
       "Speed": 55,
-    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/717.gif",
-    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/717.gif",
+    "shiny":"https://pokemon-trainer.com/attachments/cosmog-gif.4855/",
+    "img": "https://pokemon-trainer.com/images/sprite/sunmoonani/789.gif",
     "type": [
       "Fighting"
     ],
@@ -2545,8 +2545,8 @@
     }]
   }, {
     "id": 69,
-    "num": "718",
-    "name": "Zygarde",
+    "num": "790",
+    "name": "Cosmoem",
      "descriptiones": "",
     "descriptionus": "",
        "HP": 50,
@@ -2555,8 +2555,8 @@
       "Sp. Attack": 70,
       "Sp. Defense": 30,
       "Speed": 40,
-    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/718.gif",
-    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/718.gif",
+    "shiny":"https://pokemon-trainer.com/attachments/cosmoem-gif.4856/",
+    "img": "https://pokemon-trainer.com/images/sprite/sunmoonani/790.gif",
     "type": [
       "Grass",
       "Poison"
@@ -2585,8 +2585,8 @@
     }]
   }, {
     "id": 70,
-    "num": "719",
-    "name": "Diancie",
+    "num": "791",
+    "name": "Solgaleo",
      "descriptiones": "",
     "descriptionus": "",
        "HP": 65,
@@ -2595,8 +2595,8 @@
       "Sp. Attack": 85,
       "Sp. Defense": 45,
       "Speed": 55,
-    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/719.gif",
-    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/719.gif",
+    "shiny":"https://pokemon-trainer.com/attachments/solgaleo-gif.4857/",
+    "img": "https://pokemon-trainer.com/images/sprite/sunmoonani/791.gif",
     "type": [
       "Grass",
       "Poison"
@@ -2626,8 +2626,8 @@
     }]
   }, {
     "id": 71,
-    "num": "720",
-    "name": "Hoopa",
+    "num": "792",
+    "name": "Lunala",
      "descriptiones": "",
     "descriptionus": "",
        "HP": 80,
@@ -2636,8 +2636,8 @@
       "Sp. Attack": 100,
       "Sp. Defense": 70,
       "Speed": 70,
-    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/720.gif",
-    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/720.gif",
+    "shiny":"https://pokemon-trainer.com/attachments/lunala-gif.4858/",
+    "img": "https://pokemon-trainer.com/images/sprite/sunmoonani/792.gif",
     "type": [
       "Grass",
       "Poison"
@@ -2665,8 +2665,8 @@
     }]
   }, {
     "id": 72,
-    "num": "721",
-    "name": "Volcanion",
+    "num": "793",
+    "name": "Nihilego",
      "descriptiones": "",
     "descriptionus": "",
         "HP": 40,
@@ -2675,8 +2675,8 @@
       "Sp. Attack": 50,
       "Sp. Defense": 100,
       "Speed": 70,
-    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/721.gif",
-    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/721.gif",
+    "shiny":"https://pokemon-trainer.com/attachments/nihilego-gif.4859/",
+    "img": "https://pokemon-trainer.com/images/sprite/sunmoonani/793.gif",
     "type": [
       "Water",
       "Poison"
@@ -2701,8 +2701,8 @@
     }]
   }, {
     "id": 73,
-    "num": "073",
-    "name": "Tentacruel",
+    "num": "794",
+    "name": "Buzzwole",
      "descriptiones": "",
     "descriptionus": "",
        "HP": 80,
@@ -2711,8 +2711,8 @@
       "Sp. Attack": 80,
       "Sp. Defense": 120,
       "Speed": 100,
-    "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/065.gif",
-    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/073.gif",
+    "shiny":"https://pokemon-trainer.com/attachments/buzzwole-gif.4860/",
+    "img": "https://pokemon-trainer.com/images/sprite/sunmoonani/794.gif",
     "type": [
       "Water",
       "Poison"
@@ -2736,8 +2736,8 @@
     }]
   }, {
     "id": 74,
-    "num": "074",
-    "name": "Geodude",
+    "num": "795",
+    "name": "Pheromosa",
      "descriptiones": "",
     "descriptionus": "",
        "HP": 40,
