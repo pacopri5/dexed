@@ -2,7 +2,7 @@
   "pokemon": [{
     "id": 1,
     "num": "001",
-    "name": "Bulbasaur",
+    "name": "Grookey",
     "descriptiones": "A Bulbasaur es fácil verle echándose una siesta al sol. La semilla que tiene en el lomo va creciendo cada vez más a medida que absorbe los rayos del sol",
     "descriptionus": "Bulbasaur can be seen napping in bright sunlight. There is a seed on its back. By soaking up the sun's rays, the seed grows progressively larger.",
      "HP": 45,
@@ -12,13 +12,12 @@
       "Sp. Defense": 65,
       "Speed": 45,
     "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/001.gif",
-    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/001.gif",
+    "img": "https://www.serebii.net/pokemon/art/grookey.png",
     "type": [
       "Grass",
-      "Poison"
     ],
-    "height": "0.71 m",
-    "weight": "6.9 kg",
+    "height": "0.3 m",
+    "weight": "5.0 kg",
     "candy": "Bulbasaur Candy",
     "candy_count": 25,
     "egg": "2 km",
@@ -42,7 +41,7 @@
   }, {
     "id": 2,
     "num": "002",
-    "name": "Ivysaur",
+    "name": "Scorbunny",
     "descriptiones": "Este Pokémon lleva un bulbo en el lomo y, para poder con su peso, tiene unas patas y un tronco gruesos y fuertes. Si empieza a pasar más tiempo al sol, será porque el bulbo está a punto de hacerse una flor grande.",
     "descriptionus": "There is a bud on this Pokémon's back. To support its weight, Ivysaur's legs and trunk grow thick and strong. If it starts spending more time lying in the sunlight, it's a sign that the bud will bloom into a large flower soon.",
       "HP": 60,
@@ -52,13 +51,12 @@
       "Sp. Defense": 80,
       "Speed": 60,
     "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/002.gif",
-    "img": "https://pokemon-trainer.com/images/sprite/xyorasani/002.gif",
+    "img": "https://www.serebii.net/pokemon/art/scorbunny.png",
     "type": [
-      "Grass",
-      "Poison"
+      "Fire"
     ],
-    "height": "0.99 m",
-    "weight": "13.0 kg",
+    "height": "0.3 m",
+    "weight": "4.5 kg",
     "candy": "Bulbasaur Candy",
     "candy_count": 100,
     "egg": "Not in Eggs",
