@@ -1,0 +1,74 @@
+{
+  "map": [{
+    "id": 1,
+    "num": "1",
+    "name": "Kanto",
+    "descriptiones": "A Bulbasaur es fácil verle echándose una siesta al sol. La semilla que tiene en el lomo va creciendo cada vez más a medida que absorbe los rayos del sol",
+    "descriptionus": "Bulbasaur can be seen napping in bright sunlight. There is a seed on its back. By soaking up the sun's rays, the seed grows progressively larger.",
+     "HP": 45,
+      "Attack": 49,
+      "Defense": 49,
+      "Sp. Attack": 65,
+      "Sp. Defense": 65,
+      "Speed": 45,
+    "shiny":"https://pokemon-trainer.com/attachments/rowlet-gif.4788/",
+    "mapImg": "https://cdna.artstation.com/p/assets/images/images/015/636/622/large/toni-infante-kanto.jpg?1549045506",
+    "type": [
+      "Grass"
+    ],
+    "height": "0.71 m",
+    "weight": "6.9 kg",
+    "candy": "Bulbasaur Candy",
+    "candy_count": 25,
+    "egg": "2 km",
+    "spawn_chance": 0.69,
+    "avg_spawns": 69,
+    "spawn_time": "20:00",
+    "multipliers": [1.58],
+    "weaknesses": [
+      "Fire",
+      "Ice",
+      "Flying",
+      "Psychic"
+    ],
+    "next_evolution": [{
+      "num": "002",
+      "name": "https://pokemon-trainer.com/images/sprite/xyorasani/002.gif"
+    }, {
+      "num": "003",
+      "name": "https://pokemon-trainer.com/images/sprite/xyorasani/003.gif"
+    }]
+  },    {
+    "id": 152,
+    "num": "2",
+    "name": "Johto",
+      "descriptiones": "",
+    "descriptionus": "",
+       "HP": 45,
+      "Attack": 49,
+      "Defense": 65,
+      "Sp. Attack": 49,
+      "Sp. Defense": 65,
+      "Speed": 45,
+    "shiny":"https://pokemon-trainer.com/attachments/zeraora-gif.4873/",
+    "mapImg": "https://cdna.artstation.com/p/assets/images/images/015/636/622/large/toni-infante-kanto.jpg?1549045506",
+    "type": [
+      "Grass"
+    ],
+    "height": "0.9 m",
+    "weight": "6.4 kg",
+    "candy": "None",
+    "egg": "Not in Eggs",
+    "spawn_chance": 0,
+    "avg_spawns": 0,
+    "spawn_time": "N/A",
+    "multipliers": null,
+    "weaknesses": [
+      "Bug",
+      "Fire",
+      "Flying",
+      "Ice",
+      "Poison"
+    ]
+  }]
+}
