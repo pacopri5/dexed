@@ -3,8 +3,8 @@
      "id": 152,
     "num": "152",
     "name": "Chikorita",
-      "descriptiones": "",
-    "descriptionus": "",
+      "descriptiones": "Al luchar, Chikorita agita la hoja que tiene para mantener a raya al rival. Pero, al mismo tiempo, libera una suave fragancia que apacigua el encuentro y crea un ambiente agradable y de amistad.",
+    "descriptionus": "In battle, Chikorita waves its leaf around to keep the foe at bay. However, a sweet fragrance also wafts from the leaf, becalming the battling Pokémon and creating a cozy, friendly atmosphere all around.",
        "HP": 45,
       "Attack": 49,
       "Defense": 65,
@@ -33,17 +33,17 @@
       ],
     "next_evolution": [{
       "num": "153",
-      "name": "https://pokemon-trainer.com/images/sprite/xyorasani/002.gif"
+      "name": "Bayleef"
     }, {
       "num": "154",
-      "name": "https://pokemon-trainer.com/images/sprite/xyorasani/003.gif"
+      "name": "Meganium"
     }]
   }, {
     "id": 2,
     "num": "153",
     "name": "Bayleef",
-    "descriptiones": "Este Pokémon lleva un bulbo en el lomo y, para poder con su peso, tiene unas patas y un tronco gruesos y fuertes. Si empieza a pasar más tiempo al sol, será porque el bulbo está a punto de hacerse una flor grande.",
-    "descriptionus": "There is a bud on this Pokémon's back. To support its weight, Ivysaur's legs and trunk grow thick and strong. If it starts spending more time lying in the sunlight, it's a sign that the bud will bloom into a large flower soon.",
+    "descriptiones": "Bayleef tiene un collar de hojas alrededor del cuello y un brote de un árbol en cada una de ellas. La fragancia que desprenden estos brotes anima a la gente.",
+    "descriptionus": "Bayleef's neck is ringed by curled-up leaves. Inside each tubular leaf is a small shoot of a tree. The fragrance of this shoot makes people peppy.",
       "HP": 60,
       "Attack": 62,
       "Defense": 63,
@@ -86,22 +86,21 @@
     "id": 3,
     "num": "154",
     "name": "Meganium",
-    "descriptiones": "Venusaur tiene una flor enorme en el lomo que, según parece, adquiere unos colores muy vivos si está bien nutrido y le da mucho el sol. El aroma delicado de la flor tiene un efecto relajante en el ánimo de las personas.",
-    "descriptionus": "There is a large flower on Venusaur's back. The flower is said to take on vivid colors if it gets plenty of nutrition and sunlight. The flower's aroma soothes the emotions of people.",
-    "HP": 80,
+    "descriptiones": "La fragancia de la flor de Meganium aplaca y suaviza los ánimos. Al luchar, este Pokémon libera mayor cantidad de esencia para disminuir el ánimo de combate de su oponente.",
+    "descriptionus": "The fragrance of Meganium's flower soothes and calms emotions. In battle, this Pokémon gives off more of its becalming scent to blunt the foe's fighting spirit.",
+         "HP": 80,
       "Attack": 82,
-      "Defense": 83,
-      "Sp. Attack": 100,
+      "Defense": 100,
+      "Sp. Attack": 83,
       "Sp. Defense": 100,
-      "Speed": 80,
+      "Speed": 80
      "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/154.gif",
     "img": "https://pokemon-trainer.com/images/sprite/xyorasani/154.gif",
     "type": [
-      "Grass",
-      "Poison"
+      "Grass"
     ],
-    "height": "2.01 m",
-    "weight": "100.0 kg",
+    "height": "1,8 m",
+    "weight": "100,5 kg",
     "candy": "Bulbasaur Candy",
     "egg": "Not in Eggs",
     "spawn_chance": 0.017,
@@ -109,24 +108,25 @@
     "spawn_time": "11:30",
     "multipliers": null,
     "weaknesses": [
+      "Bug",
       "Fire",
-      "Ice",
       "Flying",
-      "Psychic"
+      "Ice",
+      "Poison"
     ],
     "prev_evolution": [{
-      "num": "001",
-      "name": "Bulbasaur"
+      "num": "152",
+      "name": "Chikorita"
     }, {
-      "num": "002",
-      "name": "Ivysaur"
+      "num": "153",
+      "name": "Bayleef"
     }]
   }, {
     "id": 4,
     "num": "155",
     "name": "Cyndaquil",
-    "descriptiones": "La llama que tiene en la punta de la cola arde según sus sentimientos. Llamea levemente cuando está alegre y arde vigorosamente cuando está enfadado.",
-    "descriptionus": "The flame that burns at the tip of its tail is an indication of its emotions. The flame wavers when Charmander is enjoying itself. If the Pokémon becomes enraged, the flame burns fiercely.",
+    "descriptiones": "Cyndaquil se protege soltando llamas por el lomo. Cuando está enfadado, las llamas son fieras, pero, si está cansado, solo consigue echar algunas chispas que no llegan a cuajar en una completa combustión.",
+    "descriptionus": "Cyndaquil protects itself by flaring up the flames on its back. The flames are vigorous if the Pokémon is angry. However, if it is tired, the flames splutter fitfully with incomplete combustion.",
     "HP": 39,
       "Attack": 52,
       "Defense": 43,
@@ -138,8 +138,8 @@
     "type": [
       "Fire"
     ],
-    "height": "0.61 m",
-    "weight": "8.5 kg",
+    "height": "0,5 m",
+    "weight": "7,9 kg",
     "candy": "Charmander Candy",
     "candy_count": 25,
     "egg": "2 km",
@@ -153,18 +153,18 @@
       "Rock"
     ],
     "next_evolution": [{
-      "num": "005",
-      "name": "Charmeleon"
+      "num": "156",
+      "name": "Quilava"
     }, {
-      "num": "006",
-      "name": "Charizard"
+      "num": "157",
+      "name": "Typhlosion"
     }]
   }, {
     "id": 5,
     "num": "156",
     "name": "Quilava",
-     "descriptiones": "Charmeleon no tiene reparo en acabar con su rival usando las afiladas garras que tiene. Si su enemigo es fuerte, se vuelve agresivo, y la llama que tiene en el extremo de la cola empieza a arder con mayor intensidad tornándose azulada.",
-    "descriptionus": "Charmeleon mercilessly destroys its foes using its sharp claws. If it encounters a strong foe, it turns aggressive. In this excited state, the flame at the tip of its tail flares with a bluish white color.",
+     "descriptiones": "Quilava mantiene a sus rivales a raya con la intensidad de sus llamas y las ráfagas de aire ígneo que producen. También aprovecha su espectacular agilidad para esquivar ataques a la vez que abrasa al rival con sus llamas.",
+    "descriptionus": "Quilava keeps its foes at bay with the intensity of its flames and gusts of superheated air. This Pokémon applies its outstanding nimbleness to dodge attacks even while scorching the foe with flames.",
     "HP": 58,
       "Attack": 64,
       "Defense": 58,
@@ -176,7 +176,7 @@
     "type": [
       "Fire"
     ],
-    "height": "1.09 m",
+    "height": "0,9 m",
     "weight": "19.0 kg",
     "candy": "Charmander Candy",
     "candy_count": 100,
@@ -191,19 +191,19 @@
       "Rock"
     ],
     "prev_evolution": [{
-      "num": "004",
-      "name": "Charmander"
+      "num": "155",
+      "name": "Cyndaquil"
     }],
     "next_evolution": [{
-      "num": "006",
-      "name": "Charizard"
+      "num": "157",
+      "name": "Typhlosion"
     }]
   }, {
     "id": 6,
     "num": "157",
     "name": "Typhlosion",
-    "descriptiones": "Charizard se dedica a volar por los cielos en busca de oponentes fuertes. Echa fuego por la boca y es capaz de derretir cualquier cosa. No obstante, si su rival es más débil que él, no usará este ataque.",
-    "descriptionus": "Charizard flies around the sky in search of powerful opponents. It breathes fire of such great heat that it melts anything. However, it never turns its fiery breath on any opponent weaker than itself.",
+    "descriptiones": "Typhlosion se oculta tras un trémulo haz de calor que crea mediante sus intensas y sofocantes llamaradas. Este Pokémon causa explosiones de fuego que reducen todo a cenizas.",
+    "descriptionus": "Typhlosion obscures itself behind a shimmering heat haze that it creates using its intensely hot flames. This Pokémon creates blazing explosive blasts that burn everything to cinders.",
     "HP": 78,
       "Attack": 84,
       "Defense": 78,
@@ -213,11 +213,10 @@
     "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/157.gif",
     "img": "https://pokemon-trainer.com/images/sprite/xyorasani/157.gif",
     "type": [
-      "Fire",
-      "Flying"
+      "Fire"
     ],
     "height": "1.70 m",
-    "weight": "90.5 kg",
+    "weight": "79,5 kg",
     "candy": "Charmander Candy",
     "egg": "Not in Eggs",
     "spawn_chance": 0.0031,
@@ -226,35 +225,35 @@
     "multipliers": null,
     "weaknesses": [
       "Water",
-      "Electric",
+      "Ground",
       "Rock"
     ],
     "prev_evolution": [{
-      "num": "004",
-      "name": "Charmander"
+      "num": "155",
+      "name": "Cyndaquil"
     }, {
-      "num": "005",
-      "name": "Charmeleon"
+      "num": "156",
+      "name": "Quilava"
     }]
   }, {
     "id": 7,
     "num": "158",
     "name": "Totodile",
-     "descriptiones": "El caparazón de Squirtle no le sirve de protección únicamente. Su forma redondeada y las hendiduras que tiene le ayudan a deslizarse en el agua y le permiten nadar a gran velocidad.",
-    "descriptionus": "Squirtle's shell is not merely used for protection. The shell's rounded shape and the grooves on its surface help minimize resistance in water, enabling this Pokémon to swim at high speeds.",
-    "HP": 44,
-      "Attack": 48,
-      "Defense": 65,
-      "Sp. Attack": 50,
-      "Sp. Defense": 64,
-      "Speed": 43,
+     "descriptiones": "Totodile tiene cuerpo pequeño, pero fuertes mandíbulas. A veces, piensa que solo está dando un mordisquito y hace unas heridas bastante considerables.",
+    "descriptionus": "Despite the smallness of its body, Totodile's jaws are very powerful. While the Pokémon may think it is just playfully nipping, its bite has enough power to cause serious injury.",
+      "HP": 50,
+      "Attack": 65,
+      "Defense": 64,
+      "Sp. Attack": 44,
+      "Sp. Defense": 48,
+      "Speed": 43
     "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/158.gif",
     "img": "https://pokemon-trainer.com/images/sprite/xyorasani/158.gif",
     "type": [
       "Water"
     ],
-    "height": "0.51 m",
-    "weight": "9.0 kg",
+    "height": "0,6 m",
+    "weight": "9.5 kg",
     "candy": "Squirtle Candy",
     "candy_count": 25,
     "egg": "2 km",
@@ -267,31 +266,31 @@
       "Grass"
     ],
     "next_evolution": [{
-      "num": "008",
-      "name": "Wartortle"
+      "num": "159",
+      "name": "Croconaw"
     }, {
-      "num": "009",
-      "name": "Blastoise"
+      "num": "160",
+      "name": "Feraligatr"
     }]
   }, {
     "id": 8,
     "num": "159",
     "name": "Croconaw",
-    "descriptiones": "Tiene una cola larga y cubierta de un pelo abundante y grueso que se torna más oscuro a medida que crece. Los arañazos que tiene en el caparazón dan fe de lo buen guerrero que es.",
-    "descriptionus": "Its tail is large and covered with a rich, thick fur. The tail becomes increasingly deeper in color as Wartortle ages. The scratches on its shell are evidence of this Pokémon's toughness as a battler.",
-     "HP": 59,
-      "Attack": 63,
+    "descriptiones": "Una vez que Croconaw le ha clavado los colmillos a su presa, es imposible que escape porque los tiene hacia adentro como si fueran anzuelos. Cuando Croconaw hinca los dientes, no hay escapatoria.",
+    "descriptionus": "Once Croconaw has clamped its jaws on its foe, it will absolutely not let go. Because the tips of its fangs are forked back like barbed fishhooks, they become impossible to remove when they have sunk in.",
+      "HP": 65,
+      "Attack": 80,
       "Defense": 80,
-      "Sp. Attack": 65,
-      "Sp. Defense": 80,
-      "Speed": 58,
+      "Sp. Attack": 59,
+      "Sp. Defense": 63,
+      "Speed": 58
     "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/159.gif",
     "img": "https://pokemon-trainer.com/images/sprite/xyorasani/159.gif",
     "type": [
       "Water"
     ],
-    "height": "0.99 m",
-    "weight": "22.5 kg",
+    "height": "1,1 m",
+    "weight": "25,0 kg",
     "candy": "Squirtle Candy",
     "candy_count": 100,
     "egg": "Not in Eggs",
@@ -304,32 +303,32 @@
       "Grass"
     ],
     "prev_evolution": [{
-      "num": "007",
-      "name": "Squirtle"
+      "num": "158",
+      "name": "Totodile"
     }],
     "next_evolution": [{
-      "num": "009",
-      "name": "Blastoise"
+      "num": "159",
+      "name": "Feraligatr"
     }]
   }, {
     "id": 9,
     "num": "160",
     "name": "Feraligatr",
-    "descriptiones": "Blastoise lanza chorros de agua con gran precisión por los tubos que le salen del caparazón que tiene en la espalda. Puede disparar chorros de agua con tanta puntería que no fallaría al tirar contra una lata pequeña a 50 m.",
-    "descriptionus": "Blastoise has water spouts that protrude from its shell. The water spouts are very accurate. They can shoot bullets of water with enough accuracy to strike empty cans from a distance of over 160 feet.",
-     "HP": 79,
-      "Attack": 83,
+    "descriptiones": "Feraligatr intimida a sus oponentes abriendo las grandes fauces que tiene. En combate, golpea el suelo bruscamente con las gruesas y fuertes patas traseras que tiene para cargar contra su rival a una velocidad de vértigo.",
+    "descriptionus": "Feraligatr intimidates its foes by opening its huge mouth. In battle, it will kick the ground hard with its thick and powerful hind legs to charge at the foe at an incredible speed.",
+      "HP": 85,
+      "Attack": 105,
       "Defense": 100,
-      "Sp. Attack": 85,
-      "Sp. Defense": 105,
-      "Speed": 78,
+      "Sp. Attack": 79,
+      "Sp. Defense": 83,
+      "Speed": 78
      "shiny":"https://pokemon-trainer.com/images/sprite/shinyani/160.gif",
     "img": "https://pokemon-trainer.com/images/sprite/xyorasani/160.gif",
     "type": [
       "Water"
     ],
-    "height": "1.60 m",
-    "weight": "85.5 kg",
+    "height": "2,3 m",
+    "weight": "88,8 kg",
     "candy": "Squirtle Candy",
     "egg": "Not in Eggs",
     "spawn_chance": 0.0067,
@@ -341,11 +340,11 @@
       "Grass"
     ],
     "prev_evolution": [{
-      "num": "007",
-      "name": "Squirtle"
+      "num": "158",
+      "name": "Totodile"
     }, {
-      "num": "008",
-      "name": "Wartortle"
+      "num": "159",
+      "name": "Croconaw"
     }]
   }, {
     "id": 10,
